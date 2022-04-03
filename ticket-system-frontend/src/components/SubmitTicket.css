@@ -1,0 +1,32 @@
+.submit-ticket{
+    margin-top: 25px;
+}
+
+.submit-ticket h2{
+    border-bottom: 2px solid black;
+    padding: 10px 10px;
+    padding-left: 5px;
+    display:inline-block;
+    margin-bottom: 25px;
+}
+
+.submit-ticket label{
+    font-weight:bold;
+    font-size:20px;
+    padding: 10px 0px;
+}
+
+.submit-ticket .text-danger{
+    font-weight: bold;
+    display:inline-block;
+    margin-top: 5px;
+}
+
+.submit-ticket .buttons{
+    margin-top: 60px;
+}
+
+.submit-ticket button{
+    padding: 10px 20px;
+    font-weight: bold;
+}

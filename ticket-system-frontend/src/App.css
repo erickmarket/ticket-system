@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgb(108, 61, 249);
+    color: white;
+    font-size: 1.4rem;
+}
+
+.navbar a{
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.navbar a:hover, .navbar a:focus{
+    background-color: rgb(106, 77, 193);
+}

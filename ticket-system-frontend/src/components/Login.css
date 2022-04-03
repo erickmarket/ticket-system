@@ -1,0 +1,49 @@
+.login-form{
+    background-color: rgb(108, 61, 249);
+    width: 50%;
+    min-width: 350px;
+    margin: auto;
+    margin-top: 30px;
+    color:white;
+    padding: 40px;
+}
+
+.login-form h2{
+    border-bottom: 2px solid white;
+    padding: 10px 10px;
+    padding-left: 0px;
+    display:inline-block;
+    
+}
+
+.login-form label{
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    padding: 10px 0px;
+}
+
+.login-form input, .login-form input:focus{
+    background-color: rgb(149, 115, 252);
+    color:white;
+    padding: 10px;
+    margin-bottom:30px;
+}
+
+.login-form input:disabled{
+    background-color: rgb(106, 77, 193);
+}
+
+.login-form .text-danger{
+    font-weight: bold;
+    color: rgb(255, 152, 152) !important;
+}
+
+.login-form .buttons{
+    margin-top: 60px;
+}
+
+.login-form button{
+    padding: 10px 20px;
+    font-weight: bold;
+}
